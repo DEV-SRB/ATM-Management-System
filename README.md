@@ -15,7 +15,7 @@ This project implements a basic ATM interface using Python and Tkinter for GUI. 
 1. **Clone the Repository**: Clone this repository to your local machine using `git clone`.
    
    ```bash
-   git clone https://github.com/yourusername/ATM-Interface.git
+   git clone https://github.com/DEV-SRB/ATM-Management-System
    cd ATM-Interface
    ```
 
@@ -28,15 +28,16 @@ This project implements a basic ATM interface using Python and Tkinter for GUI. 
 3. **Run the Application**: Execute the main script to launch the ATM interface.
 
    ```bash
-   python main.py
+   backend.py
    ```
 
 ## Usage
-
+- **Enter Account**: Create an account in ```accountRecord.txt ```.
 - **Login**: Enter your ATM number and PIN to access your account.
 - **Transactions**: Withdraw or deposit money as needed.
 - **PIN Management**: Change your PIN if necessary.
 - **Admin Access**: Access admin functions for account management and details.
+
 
 
 ## Contributing
